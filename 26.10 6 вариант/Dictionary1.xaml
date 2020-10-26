@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:_26._10_6_вариант">
+    <RadialGradientBrush x:Key="BtnRadGrad">
+        <GradientStopCollection>
+            <GradientStop Color="Crimson" Offset="0"/>
+            <GradientStop Color="White" Offset="1"/>
+        </GradientStopCollection>
+    </RadialGradientBrush>
+    <SolidColorBrush x:Key="BtnForeSolidColor" Color="Black"/>
+</ResourceDictionary>
